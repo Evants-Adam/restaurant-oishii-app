@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "thegreatolchef@mail.com",
+      "password": "123",
+      "role": "Admin",
+      "phoneNumber": "08999808080",
+      "address": "Jakarta"
+    },
+    {
+      "id": 2,
+      "email": "mamachef@mail.com",
+      "password": "123",
+      "role": "Customer",
+      "phoneNumber": "08999808080",
+      "address": "Jakarta"
+    },
+    {
+      "email": "testuser1@mail.com",
+      "password": "",
+      "phoneNumber": "",
+      "address": "",
+      "id": 3
+    },
+    {
+      "email": "testuser1@mail.com",
+      "password": "",
+      "phoneNumber": "",
+      "address": "",
+      "id": 4
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Pepperoni Pizza (Thin Crust)",
+      "description": "Pepperoni Pizza (Thin Crust)",
+      "price": "75000",
+      "imgUrl": "",
+      "UserId": 1,
+      "CategoryId": "2"
+    },
+    {
+      "id": "2",
+      "name": "Cheese Pizza",
+      "description": "Cheese Pizza",
+      "price": "80000",
+      "imgUrl": "image-cheese-pizza",
+      "UserId": 1,
+      "CategoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Appetizer"
+    },
+    {
+      "id": 2,
+      "name": "Main Course"
+    },
+    {
+      "id": 3,
+      "name": "Side Dish"
+    },
+    {
+      "id": 4,
+      "name": "Dessert"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "ItemId": 1,
+      "IngredientId": 1,
+      "UnitId": 4,
+      "quantity": "3"
+    },
+    {
+      "id": 2,
+      "ItemId": 1,
+      "IngredientId": 2,
+      "UnitId": 4,
+      "quantity": "1"
+    },
+    {
+      "id": 3,
+      "ItemId": 1,
+      "IngredientId": 3,
+      "UnitId": 1,
+      "quantity": "2"
+    },
+    {
+      "id": 4,
+      "ItemId": 1,
+      "IngredientId": 4,
+      "UnitId": 1,
+      "quantity": "1"
+    },
+    {
+      "id": 5,
+      "ItemId": 1,
+      "IngredientId": 5,
+      "UnitId": 2,
+      "quantity": "2"
+    },
+    {
+      "id": 6,
+      "ItemId": 1,
+      "IngredientId": 6,
+      "UnitId": 3,
+      "quantity": "1"
+    },
+    {
+      "id": 7,
+      "ItemId": 1,
+      "IngredientId": 7,
+      "UnitId": 3,
+      "quantity": "2"
+    },
+    {
+      "id": 8,
+      "ItemId": 1,
+      "IngredientId": 8,
+      "UnitId": 3,
+      "quantity": "1"
+    },
+    {
+      "id": 9,
+      "ItemId": 2,
+      "IngredientId": 1,
+      "UnitId": 4,
+      "quantity": "2.5"
+    },
+    {
+      "id": 10,
+      "ItemId": 2,
+      "IngredientId": 2,
+      "UnitId": 4,
+      "quantity": "1"
+    },
+    {
+      "id": 11,
+      "ItemId": 2,
+      "IngredientId": 3,
+      "UnitId": 1,
+      "quantity": "1.5"
+    },
+    {
+      "id": 12,
+      "ItemId": 2,
+      "IngredientId": 4,
+      "UnitId": 1,
+      "quantity": "0.75"
+    },
+    {
+      "id": 13,
+      "ItemId": 2,
+      "IngredientId": 5,
+      "UnitId": 2,
+      "quantity": "2"
+    },
+    {
+      "id": 14,
+      "ItemId": 2,
+      "IngredientId": 6,
+      "UnitId": 3,
+      "quantity": "0.75"
+    },
+    {
+      "id": 15,
+      "ItemId": 2,
+      "IngredientId": 7,
+      "UnitId": 3,
+      "quantity": "1"
+    },
+    {
+      "id": 16,
+      "ItemId": 2,
+      "IngredientId": 8,
+      "UnitId": 3,
+      "quantity": "1"
+    },
+    {
+      "id": 17,
+      "ItemId": 2,
+      "IngredientId": 9,
+      "UnitId": 4,
+      "quantity": "1"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "All Purpose Flour"
+    },
+    {
+      "id": 2,
+      "name": "Yeast"
+    },
+    {
+      "id": 3,
+      "name": "Sugar"
+    },
+    {
+      "id": 4,
+      "name": "Salt"
+    },
+    {
+      "id": 5,
+      "name": "Olive Oil"
+    },
+    {
+      "id": 6,
+      "name": "Cheese"
+    },
+    {
+      "id": 7,
+      "name": "Warm Water"
+    },
+    {
+      "id": 8,
+      "name": "Tomato Sauce"
+    },
+    {
+      "id": 9,
+      "name": "Pepperoni"
+    }
+  ],
+  "measurements": [
+    {
+      "id": 1,
+      "description": "Teaspoon(s)"
+    },
+    {
+      "id": 2,
+      "description": "Tablespoon(s)"
+    },
+    {
+      "id": 3,
+      "description": "Cup(s)"
+    },
+    {
+      "id": 4,
+      "description": "Packet(s)"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+email,password,role,phoneNumber,address
+admin.user.1@mail.com,$2b$10$feq2Fzb69kQ/Y89i/Nupcubh36JD906v9PNi3FsqElOcy3l4PAHni,Admin,08999808080,Jakarta
+testuser1@mail.com,$2b$10$qQOlHkq7vE0pBJD7cIUWA.zHZkn0X15glJPS38SviBN7pGveT.wGi,Staff,08999808080,Jakarta
+testuser2@mail.com,$2b$10$qNyo9XgI5MARJ/DIHzU65OKBBKaT4Kqjpf5K0Fn8TlELX0gHO9YTa,Staff,08999808080,Jakarta Utara
+testuser3@mail.com,$2b$10$HjJjN4au1IIsaGpLsrIUD.RHfYo1OC3V9DKgQGjhnkZPyR.Ui7xr.,Staff,08999808080,Jakarta Utara
+testuser4@mail.com,$2b$10$fpJNILyaUXUAcdEAt.spgO6WZv0UsTJrNkWZGQ.ZrOVQeVoZlQHVC,Staff,08999808080,Jakarta
+testuser5@mail.com,$2b$10$kGXDvq0DpjSBIXjY7RL.AOz0b4mjhIHFh8sBSOeycZe5ksyszu9RG,Staff,08999808080,Jakarta Utara
+testuser10@mail.com,$2b$10$VUpc9Ph6xzkoBzKcBxVcveCtQ5Wy6O78dT0xAWVtHr2VxvV6qWZUi,Staff,08999808080,Jakarta Utara
+testuser11@mail.com,$2b$10$P2DJn0fSWoLsOUWTJqgCqurQo..CMu6MXaAHO14ugnSOk3bDXDjWS,Staff,08999808080,Jakarta Utara
+testuser123@mail.com,$2b$10$l.Ffyz5Zdd/DCmgb1Cu0UuPVExyJ9wufXHuc3IeEHDaT8QGbJ49xG,Staff,08999808080,Jakarta Utara
+customer1@mail.com,$2b$10$1cO61zHxzs/e2KG2vLokWOJeZymDuAfcyAOdxxynUq7IIvWVjO5gu,Customer,08999999,Jakarta Utara
+customer2@mail.com,$2b$10$ruvohO2wUG.DzSgCEJMvC.eDwRjMNsS9tl3QpfnXyA9SJksie5j7e,Customer,08999808080,Jakarta Utara

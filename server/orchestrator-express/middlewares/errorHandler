@@ -1,0 +1,19 @@
+function errorHandler (error, req, res, next) {
+  let code, messages;
+  
+  switch (error.name) {
+    case "Forbidden":
+      code = 403;
+      messages = "You cannot do that"
+      break;
+    default:
+      code = 500;
+      messages = ["Internal Server Error"];
+      break;
+  }
+  console.log(error)
+
+  res.status(code).json({ message: messages });
+}
+
+module.exports = errorHandler;

@@ -1,0 +1,104 @@
+[
+  {
+    "MenuId": 1,
+    "IngredientId": 1,
+    "MeasurementId": 4,
+    "quantity": "3"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 2,
+    "MeasurementId": 4,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 3,
+    "MeasurementId": 1,
+    "quantity": "2"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 4,
+    "MeasurementId": 1,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 5,
+    "MeasurementId": 2,
+    "quantity": "2"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 6,
+    "MeasurementId": 3,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 7,
+    "MeasurementId": 3,
+    "quantity": "2"
+  },
+  {
+    "MenuId": 1,
+    "IngredientId": 8,
+    "MeasurementId": 3,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 1,
+    "MeasurementId": 4,
+    "quantity": "2.5"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 2,
+    "MeasurementId": 4,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 3,
+    "MeasurementId": 1,
+    "quantity": "1.5"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 4,
+    "MeasurementId": 1,
+    "quantity": "0.75"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 5,
+    "MeasurementId": 2,
+    "quantity": "2"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 6,
+    "MeasurementId": 3,
+    "quantity": "0.75"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 7,
+    "MeasurementId": 3,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 8,
+    "MeasurementId": 3,
+    "quantity": "1"
+  },
+  {
+    "MenuId": 2,
+    "IngredientId": 9,
+    "MeasurementId": 4,
+    "quantity": "1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pepperoni Pizza (Thin Crust)",
+    "description": "Pepperoni Pizza (Thin Crust)",
+    "price": "75000",
+    "imgUrl": "https://i.pinimg.com/originals/3c/05/0f/3c050fdc0b87e105f515b6adbd99de4d.jpg",
+    "stock": 10,
+    "UserId": "624da9e9dd496cd4bc3aea43",
+    "CategoryId": 2
+  },
+  {
+    "name": "Cheese Pizza",
+    "description": "Cheese Pizza",
+    "price": "80000",
+    "imgUrl": "https://i.pinimg.com/564x/42/07/da/4207da42836df4efc31348c5b2f6f5c8.jpg",
+    "stock": 10,
+    "UserId": "624da9e9dd496cd4bc3aea43",
+    "CategoryId": 2
+  }
+]
